@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/fpp-Ruben-Spn/static/css/main.9ab70dd3.css",
-    "main.js": "/fpp-Ruben-Spn/static/js/main.fd5909f3.js",
+    "main.css": "/fpp-Ruben-Spn/static/css/main.579f0797.css",
+    "main.js": "/fpp-Ruben-Spn/static/js/main.b90d646c.js",
     "static/js/109.361bb7c6.chunk.js": "/fpp-Ruben-Spn/static/js/109.361bb7c6.chunk.js",
     "index.html": "/fpp-Ruben-Spn/index.html"
   },
   "entrypoints": [
-    "static/css/main.9ab70dd3.css",
-    "static/js/main.fd5909f3.js"
+    "static/css/main.579f0797.css",
+    "static/js/main.b90d646c.js"
   ]
 }
